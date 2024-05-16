@@ -19,36 +19,3 @@
 
 <br />
 
-### Demo Screeshots
-
-<!-- ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo") -->
-
-### Prerequisites
-
-Antes de começar, certifique-se de atender aos seguintes requisitos:
-
-* [Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
-
-### Run Locally
-
-Para rodar **CrepseSalgados** localmente, execute este comando no seu git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
-
-<!-- ### Contact
-
-Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/) -->
